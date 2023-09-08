@@ -1,0 +1,14 @@
+C:\visual\week3\week3\obj\Debug\net6.0\week3.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual\week3\week3\obj\Debug\net6.0\week3.AssemblyInfoInputs.cache
+C:\visual\week3\week3\obj\Debug\net6.0\week3.AssemblyInfo.cs
+C:\visual\week3\week3\obj\Debug\net6.0\week3.csproj.CoreCompileInputs.cache
+C:\visual\week3\week3\bin\Debug\net6.0\week3.exe
+C:\visual\week3\week3\bin\Debug\net6.0\week3.deps.json
+C:\visual\week3\week3\bin\Debug\net6.0\week3.runtimeconfig.json
+C:\visual\week3\week3\bin\Debug\net6.0\week3.dll
+C:\visual\week3\week3\bin\Debug\net6.0\week3.pdb
+C:\visual\week3\week3\obj\Debug\net6.0\week3.dll
+C:\visual\week3\week3\obj\Debug\net6.0\refint\week3.dll
+C:\visual\week3\week3\obj\Debug\net6.0\week3.pdb
+C:\visual\week3\week3\obj\Debug\net6.0\week3.genruntimeconfig.cache
+C:\visual\week3\week3\obj\Debug\net6.0\ref\week3.dll
